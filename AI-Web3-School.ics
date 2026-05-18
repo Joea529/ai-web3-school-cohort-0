@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AIxWeb3 School//Learning Schedule//ZH
+X-WR-CALNAME:AI × Web3 School
+X-WR-TIMEZONE:Asia/Shanghai
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260518
+SUMMARY:📋 AI × Web3 School 报名期
+DESCRIPTION:提交报名表 https://web3career.build/zh/programs/AI-Web3-School
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260615
+SUMMARY:📚 AI × Web3 School 共学期
+DESCRIPTION:Handbook: https://aiweb3.school/zh/handbook/\n打卡: https://intensivecolearn.ing/programs/AI-Web3-School\nWCB: https://web3career.build/zh/programs/AI-Web3-School
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260518T210000
+DTEND:20260518T213000
+SUMMARY:🔔 每日打卡提醒
+DESCRIPTION:去残酷共学提交打卡 https://intensivecolearn.ing/programs/AI-Web3-School
+RRULE:FREQ=DAILY;UNTIL=20260614T235959Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260519T090000
+DTEND:20260519T093000
+SUMMARY:☀️ 晨间学习提醒
+DESCRIPTION:今日课程 + WCB 任务检查\nHandbook: https://aiweb3.school/zh/handbook/
+RRULE:FREQ=DAILY;UNTIL=20260614T235959Z
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260519T210000
+DTEND:20260519T210000
+SUMMARY:⚠️ WCB Week 1 截止：开营回放 + 3 条笔记
+DESCRIPTION:提交到 WCB 学习面板\nhttps://web3career.build/zh/programs/AI-Web3-School
+END:VEVENT
+
+END:VCALENDAR
