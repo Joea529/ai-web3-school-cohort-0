@@ -73,7 +73,7 @@
 |--------|------|
 | 阅读 | 当天 Handbook 章节（1-2 节） |
 | 笔记 | 写 daily note：3 个要点 + 1 个问题 |
-| 打卡 | 生成打卡内容，手动提交到 WCB |
+| 打卡 | 生成打卡内容，手动提交到残酷共学 https://intensivecolearn.ing/programs/AI-Web3-School |
 | 反馈 | 遇到问题记入 handbook-feedback/ |
 
 ## 输出物

@@ -8,7 +8,7 @@
 |------|------|
 | Handbook | https://aiweb3.school/zh/handbook/ |
 | WCB 课程页面 | https://web3career.build/zh/programs/AI-Web3-School |
-| WCB Learning | https://web3career.build/zh/programs/AI-Web3-School#tab=learning |
+| 残酷共学打卡 | https://intensivecolearn.ing/programs/AI-Web3-School |
 | 我的仓库 | https://github.com/Joea529/ai-web3-school-cohort-0 |
 
 ## ⚠️ 隐私提醒
